@@ -3,7 +3,7 @@ email:              blog@fredu.uk
 description:        Thoughts on everyday privacy, with occasional tech insights
 author:             fred-head
 baseurl:            ""
-url:                "https://fred-head.github.io" 
+url:                "https://privacy.fredu.uk"
 
 # Social Profiles
 twitter_username:   
@@ -13,7 +13,7 @@ instagram_username:
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics:   UA-XXXXXXXXX-X
 
 # Build settings
 markdown:           kramdown
