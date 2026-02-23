@@ -2,7 +2,7 @@
 layout: post
 title: "PhoneBlock"
 subtitle: "When the phone is annoying – and how to get some peace and quiet"
-date: 2020-02-20
+date: 2026-02-20
 background:
 ---
 
